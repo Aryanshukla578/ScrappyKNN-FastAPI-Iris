@@ -74,8 +74,22 @@ ScrappyKNN-FastAPI/
 ├── README.md             # You're reading it now
 └── example_request.json  # Sample test input
 ---
-📸 Screenshots
+## 📸 Screenshots
 
+### 🔹 Homepage Response
+![Homepage](./screenshots/img1.png)
+
+### 🔹 Swagger UI - Input Format
+![Swagger Input](./screenshots/img2.png)
+
+### 🔹 Prediction Output - versicolor
+![versicolor](./screenshots/img3.png)
+
+### 🔹 Second Input Trial
+![Second Trial](./screenshots/img4.png)
+
+### 🔹 Final Result with Prediction
+![Final Result](./screenshots/img5.png)
 ---
 👨‍💻 Author
 Aryan Shukla
