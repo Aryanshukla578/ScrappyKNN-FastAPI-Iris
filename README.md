@@ -50,8 +50,9 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 ### 5. Visit API docs
-Open your browser and go to:http://127.0.0.1:8000/docs
-
+Open your browser and go to:
+Link:http://127.0.0.1:8000/docs
+---
 🧪 Sample JSON Input
 {
   "sepal_length": 5.1,
@@ -59,11 +60,12 @@ Open your browser and go to:http://127.0.0.1:8000/docs
   "petal_length": 1.4,
   "petal_width": 0.2
 }
+---
 ✅ Sample Output
 {
   "prediction": "setosa"
 }
-
+---
 📁 Project Structure
 ScrappyKNN-FastAPI/
 ├── ml.py                 # KNN model logic
@@ -71,15 +73,16 @@ ScrappyKNN-FastAPI/
 ├── requirements.txt      # Python dependencies
 ├── README.md             # You're reading it now
 └── example_request.json  # Sample test input
-
+---
 📸 Screenshots
 
-
+---
 👨‍💻 Author
 Aryan Shukla
 📧 Email: as3061693@gmail.com
+---
 🔗 GitHub: https://github.com/Aryanshukla578
-
+---
 💬 License
 This project is for learning/demo purposes only. You may freely use and modify it.
-
+---
