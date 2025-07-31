@@ -77,20 +77,21 @@ ScrappyKNN-FastAPI/
 ## 📸 Screenshots
 
 ### 🔹 Homepage Response
-![Homepage](./screenshots/img1.png)
+![Homepage](./Screenshots/img1.png)
 
 ### 🔹 Swagger UI - Input Format
-![Swagger Input](./screenshots/img2.png)
+![Swagger Input](./Screenshots/img2.png)
 
 ### 🔹 Prediction Output - versicolor
-![versicolor](./screenshots/img3.png)
+![versicolor](./Screenshots/img3.png)
 
 ### 🔹 Second Input Trial
-![Second Trial](./screenshots/img4.png)
+![Second Trial](./Screenshots/img4.png)
 
 ### 🔹 Final Result with Prediction
-![Final Result](./screenshots/img5.png)
----
+![Final Result](./Screenshots/img5.png)
+
+``
 👨‍💻 Author
 Aryan Shukla
 📧 Email: as3061693@gmail.com
